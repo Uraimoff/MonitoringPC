@@ -6,9 +6,9 @@ import os
 import random
 import tkinter as tk
 from tkinter import messagebox
+from config import API_KEY
 
-# Your Pushbullet API key (you’ll get this from Pushbullet's settings)
-API_KEY = "o.7GdFovvov6LNXwoRLmFVylZ1j3Juu59l"
+
 pb = Pushbullet(API_KEY)
 
 # Array of keyword-passcode pairs
