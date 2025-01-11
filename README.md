@@ -25,3 +25,4 @@ python pc_status.py
 - **Add Keywords/Passcodes**: Modify the `keyword_passcode_list` array in `pc_status.py`.
 - **Change Pushbullet Device**: Ensure your phone is linked to Pushbullet and adjust API settings if needed.
 - **Modify UI**: Update the Tkinter `Frame` and `Label` properties to change the lock screen appearance.
+# checkMyPCOnline
