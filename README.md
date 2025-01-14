@@ -27,3 +27,4 @@ python pc_status.py
 - **Modify UI**: Update the Tkinter `Frame` and `Label` properties to change the lock screen appearance.
 # checkMyPCOnline
 # MonitoringPC
+# MonitoringPC
