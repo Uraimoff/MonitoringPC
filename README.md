@@ -169,5 +169,3 @@ We welcome contributions! Feel free to fork the repository, make improvements, a
 ## Author
 
 Developed by [Ibrohim Uraimov](https://github.com/Uraimoff). Reach out at [uraimovibrohim5@gmail.com](mailto:uraimovibrohim5@gmail.com) or via [GitHub Issues](https://github.com/Uraimoff/MonitoringPC/issues).
-
-```
