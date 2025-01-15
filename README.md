@@ -168,12 +168,6 @@ We welcome contributions! Feel free to fork the repository, make improvements, a
 
 ## Author
 
-Developed by **Your Name**. Reach out at [your.email@example.com](mailto:your.email@example.com) or via [GitHub Issues](https://github.com/username/pc-network-lock-screen/issues).
+Developed by [Ibrohim Uraimov](https://github.com/Uraimoff). Reach out at [uraimovibrohim5@gmail.com](mailto:uraimovibrohim5@gmail.com) or via [GitHub Issues](https://github.com/Uraimoff/MonitoringPC/issues).
 
 ```
-
-### **Key Highlights of the `README.md`**
-1. **Clear Structure**: Organized into sections like Features, Installation, and Usage.
-2. **Visual Appeal**: Markdown elements like headings, lists, and code blocks improve readability.
-3. **Comprehensive Instructions**: Covers everything from setup to customization.
-4. **Professional Tone**: Suitable for public GitHub repositories.
