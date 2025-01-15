@@ -1,3 +1,3 @@
 @echo off
-cd /d "C:\Users\Ibrohim\Downloads\notification"  
+cd /d "C:\Projects\checkMyPc\notification"  
 python notification.py
