@@ -47,7 +47,7 @@ Follow these steps to set up the program on your PC.
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/username/pc-network-lock-screen.git
+git clone https://github.com/Uraimoff/MonitoringPC.git
 cd pc-network-lock-screen
 ```
 
